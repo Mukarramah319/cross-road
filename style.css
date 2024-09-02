@@ -42,9 +42,9 @@ button {
   display: grid;
   grid-template-columns: 50px 50px 50px;
   grid-template-rows: auto auto;
-  grid-co0lumn-gap: 10px
-  grid-row-gap: 10px
-  margin-bottom: 20px
+  grid-co0lumn-gap: 10px;
+  grid-row-gap: 10px;
+  margin-bottom: 20px;
 }
 #controlls button {
   width: 100%;
